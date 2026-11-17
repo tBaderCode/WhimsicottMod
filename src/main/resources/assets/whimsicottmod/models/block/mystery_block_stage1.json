@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "whimsicottmod:block/mystery_block_stage1"
+  }
+}
